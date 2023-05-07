@@ -5,7 +5,6 @@
 - 🌱 Estou estudando JavaScript e Wordpress
 - 🤔 Estou procurando ajuda com JavaScript
 - 💬 Pergunte-me sobre Html e Css
-- 😄 Pronouns: ele/dele
 <picture>
 <source
   srcset="https://github-readme-stats.vercel.app/api?username=sylaslyma&show_icons=true&theme=dark"
