@@ -8,6 +8,8 @@
 - 😄 Pronouns: ele/dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sylaslyma&show_icons=true&theme=transparent)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=sylaslyma&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/sylaslyma/github-readme-stats#gh-dark-mode-only)
+[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=sylaslyma&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/sylaslyma/github-readme-stats#gh-light-mode-only)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Sylas-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
