@@ -1,4 +1,4 @@
-### Olá! Eu sou o Sylas Lyma👋
+## Olá! Eu sou o Sylas Lyma👋
 
 
 - 🔭 Trabalho com front-end
